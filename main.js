@@ -9,7 +9,7 @@ const leftNumber = no.getBoundingClientRect().left;
 const heightBtn = no.offsetHeight;
 const widthBtn = no.offsetWidth;
 
-const viewportHeight = window.innerHeight - 150;
+const viewportHeight = window.innerHeight - 350;
 const viewportWidth = window.innerWidth;
 
 function randomNumber(min, max) {
