@@ -60,8 +60,10 @@ dialog {
   padding: 1rem;
   border: none;
   outline: none;
+  background-color: rgba(56, 36, 17);
+  background-color: rgba(255, 235, 239, 0.7);
   /* max-width: 30ch; */
 }
 dialog::backdrop {
-  background-color: black;
+  background-color: rgb(255, 235, 239);
 }
